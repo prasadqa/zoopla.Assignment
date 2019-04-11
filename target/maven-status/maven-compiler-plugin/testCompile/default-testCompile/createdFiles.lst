@@ -1,0 +1,7 @@
+com\zoopla\base\TestBase.class
+com\zoopla\pages\ResultPage.class
+com\zoopla\pages\ProperDetailsPage.class
+com\zoopla\pages\SearchPage.class
+com\zoopla\util\Excel.class
+com\zoopla\test\AgentPageTest.class
+com\zoopla\pages\AgentPage.class
